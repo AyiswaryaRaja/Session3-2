@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+    width: 25%;
+    margin: auto;
+    border: 1px solid #af5783;
+    padding: 20px 30px;
+}
+.abc{
+    font-style: italic;
+    font-size: large;
+    color: rgb(120, 86, 184);
+}
+.b{
+    font-style: italic;
+    color: rgb(199, 73, 73);
+}
